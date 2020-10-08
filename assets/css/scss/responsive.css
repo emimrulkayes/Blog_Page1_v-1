@@ -1,0 +1,63 @@
+/*
+####################################################
+    M E D I A  Q U E R I E S
+####################################################
+*/
+
+/*==========================================================*/
+/* x-Small devices (landscape phones, 375px and up) */
+/*==========================================================*/
+@media only screen and (min-device-width : 375px) and (max-device-width : 479.98px) { 
+    .section-blog .blog-box .blogPostTitle {
+        font-size: 1.4rem !important;
+    }
+    .section-blog .blog-box .blogPostSubTitle {
+        font-size: 0.9rem !important;
+    }
+}
+/*==========================================================*/
+/* Small devices (landscape phones, 480px and up) */
+/*==========================================================*/
+@media only screen and (min-device-width : 480px) and (max-device-width : 575.98px) { 
+    .section-blog .blog-box .blogPostTitle {
+        font-size: 2rem !important;
+    }
+    .section-blog .blog-box .blogPostSubTitle {
+        font-size: 1.3rem !important;
+    }
+}
+/*==========================================================*/
+/* Small devices (landscape phones, 576px and up) */
+/*==========================================================*/
+@media only screen and (min-device-width : 576px) and (max-device-width : 767.98px) { 
+    .section-blog .blog-box .blogPostTitle {
+        font-size: 2.4rem !important;
+    }
+    .section-blog .blog-box .blogPostSubTitle {
+        font-size: 1.5rem !important;
+    }
+}
+/*==========================================================*/
+/* Medium devices (landscape Tab, 768px and up) */
+/*==========================================================*/
+@media only screen and (min-device-width: 768px) and ( max-device-width: 991.98px) {
+    .section-blog .blog-box .blogPostSubTitle {
+        font-size: 1.2rem !important;
+    }
+}
+/*==========================================================*/
+/* Large devices (landscape Laptop, 992px and up) */
+/*==========================================================*/
+@media only screen and (min-device-width: 992px) and ( max-device-width: 1023.98px) {
+    .section-blog .blog-box .blogPostTitle {
+        font-size: 1.8rem !important;
+    }
+    .section-blog .blog-box .blogPostSubTitle {
+        font-size: 1.1rem !important;
+    }
+}
+/*
+####################################################
+    E N D M E D I A  Q U E R I E S
+####################################################
+*/
